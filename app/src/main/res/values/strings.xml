@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PariPari</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    
+    <!-- Menu List -->
+    
+    <string name="title_profile">My Profile</string>
+    <string name="title_myBets">My Bets</string>
+    <string name="title_liveScores">LiveScores</string>
+    <string name="title_hotBets">Hot Bets</string>
+    <string name="title_bettingTips">Tips</string>
+    <string name="title_privacyPolicy">Privacy Policy</string>
+    <string name="title_logout">Logout</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
