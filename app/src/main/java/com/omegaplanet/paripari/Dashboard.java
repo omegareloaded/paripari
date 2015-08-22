@@ -28,7 +28,6 @@ public class Dashboard extends ActionBarActivity
 
     /**
      * Used to store the last screen title. For use in {@link #restoreActionBar()}.
-     *
      */
     private CharSequence mTitle;
 
@@ -84,8 +83,6 @@ public class Dashboard extends ActionBarActivity
         actionBar.setDisplayShowTitleEnabled(true);
         actionBar.setTitle(mTitle);
 
-
-        //just testing for update
     }
 
 
