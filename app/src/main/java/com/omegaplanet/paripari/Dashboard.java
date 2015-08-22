@@ -28,7 +28,7 @@ public class Dashboard extends ActionBarActivity
 
     /**
      * Used to store the last screen title. For use in {@link #restoreActionBar()}.
-     * Testing GIT
+     *
      */
     private CharSequence mTitle;
 
